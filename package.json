@@ -1,0 +1,27 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "an experiment with nodejs and expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierocejo/nodewebsite.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "express"
+  ],
+  "author": "Javier Ocejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javierocejo/nodewebsite/issues"
+  },
+  "homepage": "https://github.com/javierocejo/nodewebsite#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
